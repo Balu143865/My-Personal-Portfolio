@@ -16,5 +16,5 @@ Intro
 About Me
 Skills
 projects
-experience
+education
 Contact form
